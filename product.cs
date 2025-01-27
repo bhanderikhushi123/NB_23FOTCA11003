@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace NB_23FOTCA11003
 {
-    internal class Q1
-    {
-    }
+
+
+
+    
 }

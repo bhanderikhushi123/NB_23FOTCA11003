@@ -43,9 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="constructoruser.cs" />
+    <Compile Include="DemoConst.cs" />
+    <Compile Include="DemoConst2.cs" />
+    <Compile Include="DemoConst3.cs" />
+    <Compile Include="parametercon.cs" />
+    <Compile Include="product.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Q1.cs" />
+    <Compile Include="constructor.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
