@@ -47,6 +47,13 @@
     <Compile Include="DemoConst.cs" />
     <Compile Include="DemoConst2.cs" />
     <Compile Include="DemoConst3.cs" />
+    <Compile Include="Inheritance\BasicSalary.cs" />
+    <Compile Include="Inheritance\Calculatesalary1.cs" />
+    <Compile Include="Inheritance\ConstructorInh.cs" />
+    <Compile Include="Inheritance\PiramidConstructor.cs" />
+    <Compile Include="Inheritance\SingleInh.cs" />
+    <Compile Include="Inheritance\SingleInh2.cs" />
+    <Compile Include="Inheritance\SingleInh3.cs" />
     <Compile Include="parametercon.cs" />
     <Compile Include="product.cs" />
     <Compile Include="Program.cs" />
