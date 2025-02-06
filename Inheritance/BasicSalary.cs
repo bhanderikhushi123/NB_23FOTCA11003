@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 /* class emoployee 
  * {
- *    int eid ;
+ *    int eid ;//
  *    string name ;
  *    double basesalary ;
  *    
