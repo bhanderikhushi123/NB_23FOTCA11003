@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstract\abdemo.cs" />
+    <Compile Include="Abstract\abdemo2.cs" />
+    <Compile Include="Abstract\multipleinhinterface.cs" />
+    <Compile Include="Abstract\multipleinhinterface2.cs" />
     <Compile Include="constructoruser.cs" />
     <Compile Include="DemoConst.cs" />
     <Compile Include="DemoConst2.cs" />
