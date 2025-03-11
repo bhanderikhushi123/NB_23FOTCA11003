@@ -69,6 +69,11 @@
     <Compile Include="StaticDemo.cs" />
     <Compile Include="StaticDemo1.cs" />
     <Compile Include="StaticDemo2.cs" />
+    <Compile Include="win_elegates\Demoelegate.cs" />
+    <Compile Include="win_elegates\ElegateString.cs" />
+    <Compile Include="win_elegates\ElegateString2.cs" />
+    <Compile Include="win_elegates\elegateString3.cs" />
+    <Compile Include="win_elegates\Testelegate.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
