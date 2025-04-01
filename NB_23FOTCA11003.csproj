@@ -51,6 +51,7 @@
     <Compile Include="DemoConst.cs" />
     <Compile Include="DemoConst2.cs" />
     <Compile Include="DemoConst3.cs" />
+    <Compile Include="ExceptionHandling\demoExceptionHandling.cs" />
     <Compile Include="Inheritance\BasicSalary.cs" />
     <Compile Include="Inheritance\Calculatesalary1.cs" />
     <Compile Include="Inheritance\ConstructorInh.cs" />
