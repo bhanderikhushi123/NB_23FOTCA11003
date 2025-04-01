@@ -51,7 +51,11 @@
     <Compile Include="DemoConst.cs" />
     <Compile Include="DemoConst2.cs" />
     <Compile Include="DemoConst3.cs" />
+    <Compile Include="ExceptionHandling\ArrayException.cs" />
     <Compile Include="ExceptionHandling\demoExceptionHandling.cs" />
+    <Compile Include="ExceptionHandling\finallyblock.cs" />
+    <Compile Include="ExceptionHandling\Multicatchblock.cs" />
+    <Compile Include="ExceptionHandling\userDefinedException.cs" />
     <Compile Include="Inheritance\BasicSalary.cs" />
     <Compile Include="Inheritance\Calculatesalary1.cs" />
     <Compile Include="Inheritance\ConstructorInh.cs" />
